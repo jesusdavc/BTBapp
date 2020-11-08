@@ -1,0 +1,17 @@
+.main-tables-container{
+    width: 768px;
+    overflow-x: hidden;
+    margin: 0 auto;
+    justify-content: center;
+}
+.main-currency-container{
+    margin-left: 10px;
+}
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.plans-container--slider{
+    justify-content: center;
+    overflow-x: hidden;
+}
