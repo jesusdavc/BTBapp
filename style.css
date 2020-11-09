@@ -228,7 +228,7 @@ main{
     border-bottom-left-radius: 10px;
 }
 .table-item:nth-of-type(8){
-    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 .button{
     min-width: 8px;
